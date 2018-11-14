@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesRemover", "FilesRemover\FilesRemover.csproj", "{ED8B4EEC-46D5-42DC-92BC-9926072E9266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesRemoverLib", "FilesRemoverLib\FilesRemoverLib.csproj", "{12B76052-8E36-4C85-A06D-486A2A865415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8B4EEC-46D5-42DC-92BC-9926072E9266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8B4EEC-46D5-42DC-92BC-9926072E9266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8B4EEC-46D5-42DC-92BC-9926072E9266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8B4EEC-46D5-42DC-92BC-9926072E9266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B76052-8E36-4C85-A06D-486A2A865415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B76052-8E36-4C85-A06D-486A2A865415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B76052-8E36-4C85-A06D-486A2A865415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B76052-8E36-4C85-A06D-486A2A865415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABB846D-E4A1-4730-8D71-76DAA49B7CD9}
+	EndGlobalSection
+EndGlobal

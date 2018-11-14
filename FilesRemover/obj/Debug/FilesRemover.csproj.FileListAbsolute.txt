@@ -1,0 +1,13 @@
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemover.exe.config
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemover.exe
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemover.pdb
+C:\FilesRemover\FilesRemover\FilesRemover\obj\Debug\FilesRemover.csprojAssemblyReference.cache
+C:\FilesRemover\FilesRemover\FilesRemover\obj\Debug\FilesRemover.csproj.CoreCompileInputs.cache
+C:\FilesRemover\FilesRemover\FilesRemover\obj\Debug\FilesRemover.exe
+C:\FilesRemover\FilesRemover\FilesRemover\obj\Debug\FilesRemover.pdb
+C:\FilesRemover\FilesRemover\FilesRemover\obj\Debug\FilesRemover.exe.manifest
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemover.exe.manifest
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemover.application
+C:\FilesRemover\FilesRemover\FilesRemover\obj\Debug\FilesRemover.application
+C:\FilesRemover\FilesRemover\FilesRemover\obj\Debug\FilesRemover.csproj.CopyComplete
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemoverLib.pdb

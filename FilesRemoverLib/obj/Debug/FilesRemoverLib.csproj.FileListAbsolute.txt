@@ -1,0 +1,7 @@
+C:\FilesRemover\FilesRemover\FilesRemoverLib\bin\Debug\FilesRemoverLib.dll
+C:\FilesRemover\FilesRemover\FilesRemoverLib\bin\Debug\FilesRemoverLib.pdb
+C:\FilesRemover\FilesRemover\FilesRemoverLib\obj\Debug\FilesRemoverLib.csproj.CoreCompileInputs.cache
+C:\FilesRemover\FilesRemover\FilesRemoverLib\obj\Debug\FilesRemoverLib.dll
+C:\FilesRemover\FilesRemover\FilesRemoverLib\obj\Debug\FilesRemoverLib.pdb
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemoverLib.dll
+C:\FilesRemover\FilesRemover\FilesRemover\bin\Debug\FilesRemoverLib.pdb
